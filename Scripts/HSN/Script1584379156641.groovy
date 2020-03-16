@@ -56,7 +56,7 @@ WebUI.click(findTestObject('Object Repository/HSN PN/Page_FRIDAY Autoversicherun
 WebUI.click(findTestObject('Object Repository/HSN PN/Page_FRIDAY Autoversicherung In nur 90 Seku_ba7e08/button_Weiter'))
 
 WebUI.setText(findTestObject('Object Repository/HSN PN/Page_FRIDAY Autoversicherung In nur 90 Seku_ba7e08/input_Erstzulassung_monthYear'), 
-    '02.2004')
+    '02.2005')
 
 WebUI.click(findTestObject('Object Repository/HSN PN/Page_FRIDAY Autoversicherung In nur 90 Seku_ba7e08/input_TSN_tsn'))
 
